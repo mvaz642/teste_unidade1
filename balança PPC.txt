@@ -1,0 +1,13 @@
+Balança Linha 03 
+10.14.145.128       ------- 10.14.145.152
+3100
+30
+5000
+Analog.PesoTrolley3 -------- BALANCA3
+
+Balança Linha 04
+10.14.145.128       -------- 10.14.145.152
+3100
+30
+5000
+Analog.PesoTrolley4 --------- BALANCA4
